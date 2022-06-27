@@ -42,8 +42,8 @@ npm config set registry https://registry.npmjs.org
 //淘宝源
 npm config set registry https://registry.npm.taobao.org
 
-//虎牙源，udb的组件需要从这里下载
-npm config set registry http://npm.huya.com/
+//公司源，公司内的组件需要从这里下载
+npm config set registry http://npm.xx.com/
 ```
 
 ### npm和npx差异
